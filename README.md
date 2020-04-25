@@ -1,4 +1,5 @@
 # jwt-pk-fk
 sequelize-one-many
 ## installation
-- npm start
+- npm start  
+- routes folder has the controller's part
